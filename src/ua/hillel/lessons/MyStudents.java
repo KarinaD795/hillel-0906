@@ -6,7 +6,7 @@ import java.util.Random;
 public class MyStudents {
     public static void main(String[] args) {
         List<String> myStudents = List.of(
-//                "Володимир Старчевський",
+                "Володимир Старчевський",
                 "Сергій Полішевський  ",
 //                "Дмитро Левченко",
 //                "Ігор Клименко",
