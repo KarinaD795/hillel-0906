@@ -1,27 +1,18 @@
 package ua.hillel.ForTest;
 
 import java.util.Arrays;
+import java.util.Optional;
 
 public class Test {
 
     public static void main(String[] args) {
-        int[] array = new int[10];
-        for (int i = 0; i < 10; i++) {
-            array[i] = (int) (Math.random() * 10);
-        }
-
-        luckyNumber(array);
+        Optional<Optional<String>> name = Optional.of(Optional.of("JOHN"));
+        Optional<String> lowerCaseName = name.flatMap(o -> o.stream().findFirst())
+                .map(String::toUpperCase);
+       lowerCaseName.ifPresent(System.out::println);;
+        System.out.println("hi");
     }
 
-    public static void luckyNumber(int[] array2) {
-        for (int j = 0; j < array2.length; j++) {
-            if (array2[j] == 3) {
-                System.out.println("Вот счастливое число!");
-                break;
-            }
-            System.out.println(array2[j]);
-        }
-    }
 }
 
 
