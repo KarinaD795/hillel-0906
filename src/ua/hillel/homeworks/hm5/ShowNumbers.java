@@ -11,7 +11,6 @@ public class ShowNumbers {
     }
 }
 
-
 //    public static void showDescendingNumbers(int minNumber) {
 //        int i = 100;
 //
