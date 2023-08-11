@@ -49,6 +49,7 @@ public class MapExample {
         namesAndAge.put("Oleh", 30);
         namesAndAge.put("Kostia", 18);
 
+
 //        for (Map.Entry<String, Integer> e : namesAndAge.entrySet()) {
 //            System.out.println(e.getKey() + " - " + e.getValue());
 //        }
