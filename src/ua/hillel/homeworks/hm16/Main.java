@@ -1,9 +1,7 @@
 package ua.hillel.homeworks.hm16;
 
 public class Main {
-    /*
     public static void main(String[] args) {
-
         // Создание объектов и вызов методов для проверки
 
         Vehicle car1 = new Car("Toyota", "Camry", 2022, 4);
@@ -18,5 +16,4 @@ public class Main {
         // expected: Поездка на велосипеде Giant началась. У велосипеда 2 педали.
         // expected: Поездка на велосипеде Giant завершена.
     }
- */
 }
