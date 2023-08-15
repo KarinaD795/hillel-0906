@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="transition files">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson16/map/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson16/set/SetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/dequeue/Lifo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/iterator/IteratorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/queue/Fifo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/queue/FifoPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/toString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson17/toString/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm_16/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,20 +58,7 @@
       <recent name="ua.hillel.lesson1.lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Launch">
-    <configuration name="IteratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson17.iterator.IteratorExample" />
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hillel.lessons.lesson17.iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Launch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson13.abstractExample.Launch" />
       <module name="hillel_0906" />
@@ -98,6 +78,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ua.hillel.lessons.lesson15.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.homeworks.hm_16.Main" />
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.homeworks.hm_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SetExample" />
         <item itemvalue="Application.MapExample" />
         <item itemvalue="Application.ListExample" />
         <item itemvalue="Application.Launch" />
-        <item itemvalue="Application.IteratorExample" />
       </list>
     </recent_temporary>
   </component>
