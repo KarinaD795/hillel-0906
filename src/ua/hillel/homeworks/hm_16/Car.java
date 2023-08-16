@@ -1,9 +1,15 @@
 package ua.hillel.homeworks.hm_16;
 
 public class Car extends Vehicle {
+    private int doors;
+
+    private int getDoors() {
+        return this.doors;
+    }
 
     public Car(String brand, String name, int year, int doors) {
-        super(brand, name, year, doors);
+        super(brand, name, year);
+        this.doors = doors;
     }
 
     @Override

@@ -2,7 +2,6 @@ package ua.hillel.homeworks.hm_16;
 
 public class Main {
     public static void main(String[] args) {
-
         // Создание объектов и вызов методов для проверки
 
         Vehicle car1 = new Car("Toyota", "Camry", 2022, 4);
