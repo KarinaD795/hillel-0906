@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="homework 16 by Karina">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_08_2023,_13_36_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_08_2023__13_36__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="add maven and dependencies">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hillel_0906.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hillel_0906.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692137458295</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add maven and dependencies">
+      <created>1692364246089</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692364246089</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +174,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework 16 by Karina" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 16 by Karina" />
+    <MESSAGE value="add maven and dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="add maven and dependencies" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
