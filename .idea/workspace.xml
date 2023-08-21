@@ -4,218 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="add testNg dependency-1">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_78.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_api_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_core_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_httpclient5_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_netty_netty_reactive_streams_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dev_failsafe_failsafe_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_5_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_60_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_60_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_60_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_60_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_92_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_26_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_events_1_26_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_logs_1_26_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_26_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_26_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_extension_incubator_1_26_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_26_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_26_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_26_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_26_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_26_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_26_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_26_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_26_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_5_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_netty_utils_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_brotli_dec_0_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v113_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v114_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v115_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/chrome/ChromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/chrome/ChromeTestWithDriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/dataprovider/ProviderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/FirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/lesson19suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/lesson19suite2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson16/map/MapExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson17/dequeue/Lifo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson17/iterator/IteratorExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson17/queue/FifoPriority.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson18/annotations/testng/TestAnnotation.class" afterDir="false" />
+    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="replace lessons 1-15 to java package">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Entrepreneurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Individuals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Juridical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Launch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/SecondClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson19/chrome/ChromeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson19/chrome/ChromeTestWithDriverManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson19/dataprovider/ProviderExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson19/testsuite/FirstClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson19/testsuite/SecondClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hillel_0906.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hillel_0906.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm1/HM1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm1/HM1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm1/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm1/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm10/ReturnValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm10/ReturnValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm11/ShowArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm11/ShowArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm13/ShowInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm13/ShowInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm14/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm14/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm15/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm15/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm15/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm15/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm16/ArrayRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm16/ArrayRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm18/BubleSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm18/BubleSort1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm19/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm19/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm1H/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm1H/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm2/HM2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm2/HM2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm20/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm20/HappyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm3/HM3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm3/HM3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm4/HW4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm4/HW4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm5/ShowNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm5/ShowNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm8/WhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm8/WhileExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm9/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm9/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm_16/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_16/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm_16/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_16/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm_16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_16/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/homeworks/hm_16/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_16/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson1/Decrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson1/Decrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson1/Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson1/Increment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson1/MyFirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson1/MyFirstClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson1/PostPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson1/PostPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/LogicalOperatots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/LogicalOperatots.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/Ternary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/TernaryOperator" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/TernaryOperator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/constructots/explicit/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/constructots/explicit/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/constructots/explicit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/constructots/explicit/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/constructots/implicit/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson10/constructots/implicit/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/AboutBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/AboutBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/ContinueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/ContinueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/Bmw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/CarController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/Honda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/Infiniti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/Infiniti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/abstractExample/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/abstractExample/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/enums/BorderMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/BorderMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/enums/EnumWithConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/EnumWithConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/enums/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/enums/LaunchForEnumWithConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/LaunchForEnumWithConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/Bmw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/TaxiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/TaxiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/interfaceExample/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/interfaceExample/Toyota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/MyStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/MyStudents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/VarArgsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/VarArgsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/LocalMethodOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/LocalMethodOuter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/StaticOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/StaticOuter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/ReleaseMessageInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/ReleaseMessageInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/exceptions/SimpleExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/exceptions/SimpleExceptionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/exceptions/customexception/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/exceptions/customexception/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/exceptions/customexception/MyExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/exceptions/customexception/MyExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/list/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/list/ListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/list/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/list/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson3/ConditionsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson3/ConditionsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson3/Lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson3/Lesson3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson3/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson3/ScannerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson4/arrays/ArraysExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson4/arrays/ArraysExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson4/loops/LoopsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson4/loops/LoopsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson4switchExample/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson4switchExample/SwitchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/methods/MethodStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/methods/MethodStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/methods/MethodsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/methods/MethodsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/methods/NewMethoswithParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/methods/NewMethoswithParam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/twodimarray/DimArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/twodimarray/DimArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/ReverseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson6/ReverseExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/RoundExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson6/RoundExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/SomeStringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson6/SomeStringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson6/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/SplitExmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/SplitExmpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/SwitchJava12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/SwitchJava12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/SwitchJava13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/SwitchJava13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/randomizer/RandomExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/randomizer/RandomExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/stringbuff/StringBuffExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/stringbuff/StringBuffExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/stringpool/StringPoolExmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson7/stringpool/StringPoolExmpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/Oop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/Oop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/inheritance/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/inheritance/Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/inheritance/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Pets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/inheritance/Pets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/polimorfizm/PolimorfizmExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/oop/polimorfizm/PolimorfizmExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/BubleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/BubleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/encapsulation/car/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/encapsulation/car/Bmw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/encapsulation/specific/Specification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/encapsulation/specific/Specification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/encapsulation/specific/SubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/encapsulation/specific/SubClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Start.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,7 +85,20 @@
       <recent name="ua.hillel.lesson1.lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ChromeTestWithDriverManager.testOnChromeDriver">
+  <component name="RunManager" selected="Application.ua.hillel.homeworks.hm_18.Launch">
+    <configuration name="ua.hillel.homeworks.hm_18.Launch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.homeworks.hm_18.Launch" />
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.homeworks.hm_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChromeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
@@ -353,30 +168,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson18.annotations.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson18.annotations.testng" />
-      <option name="MAIN_CLASS_NAME" value="lesson18.annotations.testng.TestAnnotation" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ua.hillel.homeworks.hm_18.Launch" />
         <item itemvalue="TestNG.ChromeTestWithDriverManager.testOnChromeDriver" />
         <item itemvalue="TestNG.ChromeTestWithDriverManager" />
         <item itemvalue="TestNG.ChromeTest" />
         <item itemvalue="TestNG.SecondClass" />
-        <item itemvalue="TestNG.TestAnnotation" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692374493125</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="replace lessons 1-15 to java package">
+      <created>1692561293363</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692561293363</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -436,7 +241,8 @@
     <MESSAGE value="add maven and dependencies" />
     <MESSAGE value="add testNg dependency" />
     <MESSAGE value="add testNg dependency-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add testNg dependency-1" />
+    <MESSAGE value="replace lessons 1-15 to java package" />
+    <option name="LAST_COMMIT_MESSAGE" value="replace lessons 1-15 to java package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
