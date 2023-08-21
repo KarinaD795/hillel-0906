@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="replace lessons 1-15 to java package">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Entrepreneurs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Individuals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Juridical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Launch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/SecondClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson19/chrome/ChromeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson19/chrome/ChromeTestWithDriverManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson19/dataprovider/ProviderExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson19/testsuite/FirstClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson19/testsuite/SecondClass.class" afterDir="false" />
+    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="homework 18 (Bank client task)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692561293363</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="homework 18 (Bank client task)">
+      <created>1692632599104</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692632599104</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,7 +237,8 @@
     <MESSAGE value="add testNg dependency" />
     <MESSAGE value="add testNg dependency-1" />
     <MESSAGE value="replace lessons 1-15 to java package" />
-    <option name="LAST_COMMIT_MESSAGE" value="replace lessons 1-15 to java package" />
+    <MESSAGE value="homework 18 (Bank client task)" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 18 (Bank client task)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
