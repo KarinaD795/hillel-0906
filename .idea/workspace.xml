@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="homework 18 (Bank client task)" />
+    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="homework 18 (Bank client task)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Entrepreneurs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Entrepreneurs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Individuals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Individuals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Juridical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Juridical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_18/Launch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Entrepreneurs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Entrepreneurs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Individuals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Individuals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Juridical.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Juridical.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Launch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Launch.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692632599104</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="homework 18 (Bank client task)">
+      <created>1692635077075</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692635077075</updated>
+    </task>
+    <task id="LOCAL-00008" summary="homework 18 (Bank client task)">
+      <created>1692635089716</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692635089716</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,16 +1,13 @@
 package ua.hillel.homeworks.hm_18;
 
 public class Individuals extends Client {
-    protected int getBalance() {
-        return balance;
+    public Individuals(double balance) {
+        super(balance);
     }
-
-    private int balance = 0;
 
     @Override
     void add(int amount) {
         System.out.println("Вы пополнили свой счет на " + amount + " $");
-
 
         this.balance += amount;
     }
@@ -30,6 +27,6 @@ public class Individuals extends Client {
 
     @Override
     void about() {
-        System.out.println("На вашем счету " + getBalance() + " и ваша коммисия за  снятие 0%");
+        System.out.println("На вашем счету " + getBalance() + " и ваша коммисия за снятие 0%");
     }
 }

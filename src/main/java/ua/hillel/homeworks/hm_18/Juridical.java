@@ -1,16 +1,16 @@
 package ua.hillel.homeworks.hm_18;
 
 public class Juridical extends Client {
-    private double balance = 0;
     private final int fee = 1;
+
+    public Juridical(double balance) {
+        super(balance);
+    }
 
     public int getFee() {
         return fee;
     }
 
-    public double getBalance() {
-        return balance;
-    }
 
     @Override
     void add(int amount) {

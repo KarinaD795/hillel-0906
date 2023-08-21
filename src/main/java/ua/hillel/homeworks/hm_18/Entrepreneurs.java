@@ -1,13 +1,10 @@
 package ua.hillel.homeworks.hm_18;
 
 public class Entrepreneurs extends Client {
-
-    private double balance = 0;
-
     private double fee;
 
-    public double getBalance() {
-        return balance;
+    public Entrepreneurs(double balance) {
+        super(balance);
     }
 
     public double getFee() {
@@ -29,7 +26,6 @@ public class Entrepreneurs extends Client {
         }
 
         this.balance += amount - calculatePercent(amount, fee);
-
     }
 
     @Override
