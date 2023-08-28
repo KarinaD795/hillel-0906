@@ -270,7 +270,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm9/MultiplicationTable.java</url>
           <line>3</line>
-          <properties class="ua.hillel.homeworks.hm9.MultiplicationTable">
+          <properties class="ua.hillel.homeworks.hm9.MultiplicationTable" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -279,7 +279,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/twodimarray/DimArrayExample.java</url>
           <line>3</line>
-          <properties class="ua.hillel.lessons.lesson5.twodimarray.DimArrayExample">
+          <properties class="ua.hillel.lessons.lesson5.twodimarray.DimArrayExample" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -288,7 +288,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson6/SomeStringMethods.java</url>
           <line>3</line>
-          <properties class="ua.hillel.lessons.lesson6.SomeStringMethods">
+          <properties class="ua.hillel.lessons.lesson6.SomeStringMethods" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -297,7 +297,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm13/ShowInputs.java</url>
           <line>4</line>
-          <properties class="ua.hillel.homeworks.hm13.ShowInputs">
+          <properties class="ua.hillel.homeworks.hm13.ShowInputs" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -306,7 +306,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson8/Division.java</url>
           <line>3</line>
-          <properties class="ua.hillel.lessons.lesson8.Division">
+          <properties class="ua.hillel.lessons.lesson8.Division" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -315,7 +315,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm15/Program.java</url>
           <line>3</line>
-          <properties class="ua.hillel.homeworks.hm15.Program">
+          <properties class="ua.hillel.homeworks.hm15.Program" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -324,7 +324,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson12/Recursion.java</url>
           <line>3</line>
-          <properties class="ua.hillel.lessons.lesson12.Recursion">
+          <properties class="ua.hillel.lessons.lesson12.Recursion" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -333,7 +333,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/ContinueExample.java</url>
           <line>3</line>
-          <properties class="ua.hillel.lessons.lesson13.ContinueExample">
+          <properties class="ua.hillel.lessons.lesson13.ContinueExample" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -351,7 +351,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/Launch.java</url>
           <line>5</line>
-          <properties class="ua.hillel.lessons.lesson13.enums.Launch">
+          <properties class="ua.hillel.lessons.lesson13.enums.Launch" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -360,7 +360,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/LaunchForEnumWithConstructor.java</url>
           <line>3</line>
-          <properties class="ua.hillel.lessons.lesson13.enums.LaunchForEnumWithConstructor">
+          <properties class="ua.hillel.lessons.lesson13.enums.LaunchForEnumWithConstructor" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -369,7 +369,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/exceptions/SimpleExceptionExample.java</url>
           <line>9</line>
-          <properties class="ua.hillel.lessons.lesson15.exceptions.SimpleExceptionExample">
+          <properties class="ua.hillel.lessons.lesson15.exceptions.SimpleExceptionExample" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
