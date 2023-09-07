@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="lesson 24" />
+    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="homework 25" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -21,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw-16" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,13 +72,13 @@
       <recent name="ua.hillel.lesson1.lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ua.hillel.homeworks.hm_18.Launch">
-    <configuration name="ua.hillel.homeworks.hm_18.Launch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.homeworks.hm_18.Launch" />
+  <component name="RunManager" selected="Application.ua.hillel.homeworks.hm25.Launch">
+    <configuration name="HM2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.homeworks.hm2.HM2" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.homeworks.hm_18.*" />
+          <option name="PATTERN" value="ua.hillel.homeworks.hm2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,82 +86,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChromeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="IngredientsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.homeworks.hm25.IngredientsMain" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson19.chrome.*" />
+          <option name="PATTERN" value="ua.hillel.homeworks.hm25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson19.chrome" />
-      <option name="MAIN_CLASS_NAME" value="lesson19.chrome.ChromeTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChromeTestWithDriverManager" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LaunchForEnumWithConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson13.enums.LaunchForEnumWithConstructor" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson19.chrome.*" />
+          <option name="PATTERN" value="ua.hillel.lessons.lesson13.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson19.chrome" />
-      <option name="MAIN_CLASS_NAME" value="lesson19.chrome.ChromeTestWithDriverManager" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChromeTestWithDriverManager.testOnChromeDriver" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson3.ScannerExample" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson19.chrome.*" />
+          <option name="PATTERN" value="ua.hillel.lessons.lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson19.chrome" />
-      <option name="MAIN_CLASS_NAME" value="lesson19.chrome.ChromeTestWithDriverManager" />
-      <option name="METHOD_NAME" value="testOnChromeDriver" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondClass" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ua.hillel.homeworks.hm25.Launch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.homeworks.hm25.Launch" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson19.testsuite.*" />
+          <option name="PATTERN" value="ua.hillel.homeworks.hm25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson19.testsuite" />
-      <option name="MAIN_CLASS_NAME" value="lesson19.testsuite.SecondClass" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ua.hillel.homeworks.hm_18.Launch" />
-        <item itemvalue="TestNG.ChromeTestWithDriverManager.testOnChromeDriver" />
-        <item itemvalue="TestNG.ChromeTestWithDriverManager" />
-        <item itemvalue="TestNG.ChromeTest" />
-        <item itemvalue="TestNG.SecondClass" />
+        <item itemvalue="Application.ua.hillel.homeworks.hm25.Launch" />
+        <item itemvalue="Application.IngredientsMain" />
+        <item itemvalue="Application.LaunchForEnumWithConstructor" />
+        <item itemvalue="Application.HM2" />
+        <item itemvalue="Application.ScannerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -229,12 +213,12 @@
       <option name="project" value="LOCAL" />
       <updated>1692635089716</updated>
     </task>
-    <task id="LOCAL-00009" summary="lesson 24">
-      <created>1694103800971</created>
+    <task id="LOCAL-00009" summary="homework 25">
+      <created>1693322006722</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1694103800971</updated>
+      <updated>1693322006722</updated>
     </task>
     <option name="localTasksCounter" value="10" />
     <servers />
@@ -257,8 +241,8 @@
     <MESSAGE value="add testNg dependency-1" />
     <MESSAGE value="replace lessons 1-15 to java package" />
     <MESSAGE value="homework 18 (Bank client task)" />
-    <MESSAGE value="lesson 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 24" />
+    <MESSAGE value="homework 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
