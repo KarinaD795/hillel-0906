@@ -5,17 +5,22 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+
+@SuppressWarnings("ALL")
 public class WebElementsSearch {
     WebDriver driver;
 
     @BeforeTest
     public void setupDriver() {
-        WebDriverManager.chromedriver().setup();
-        driver=new ChromeDriver();
+        WebDriverManager.firefoxdriver().setup();
+        driver = new FirefoxDriver();
+//        WebDriverManager.chromedriver().setup();
+//        driver=new ChromeDriver();
     }
 
     @Test
