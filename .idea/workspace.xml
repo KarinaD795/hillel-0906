@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="homework 25">
-      <change afterPath="$PROJECT_DIR$/src/test/java/HWCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson25/PracticeJsExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson25/PracticeSelected.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson25/PracticeWindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson28/FirstSelenideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson28/SoftAssertExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson29/SelenideIsDisplayedAndExists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homeworksSelenium/hw26/WebElementsSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homeworksSelenium/hw26/WebElementsSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/init/InitialDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/init/InitialDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/lesson19/chrome/ChromeTestWithDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lesson19/chrome/ChromeTestWithDriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hillel_0906.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hillel_0906.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +84,17 @@
       <recent name="ua.hillel.lesson1.lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PracticeJsExecutor.jsExecutorAlertTest">
-    <configuration name="HWCopy" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.FirstSelenideTest">
+    <configuration name="FirstSelenideTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HWCopy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson28" />
+      <option name="MAIN_CLASS_NAME" value="lesson28.FirstSelenideTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -93,11 +102,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HWCopy.searchProductWithTop" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FirstSelenideTest.selenideSecondTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HWCopy" />
-      <option name="METHOD_NAME" value="searchProductWithTop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson28" />
+      <option name="MAIN_CLASS_NAME" value="lesson28.FirstSelenideTest" />
+      <option name="METHOD_NAME" value="selenideSecondTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSelenideTest.selenideTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson28" />
+      <option name="MAIN_CLASS_NAME" value="lesson28.FirstSelenideTest" />
+      <option name="METHOD_NAME" value="selenideTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -123,35 +156,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeJsExecutor.selectedTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SoftAssertExample.softAssertExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson25.*" />
+          <option name="PATTERN" value="lesson28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson25" />
-      <option name="MAIN_CLASS_NAME" value="lesson25.PracticeJsExecutor" />
-      <option name="METHOD_NAME" value="selectedTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticeSelected.selectedTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson25.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson25" />
-      <option name="MAIN_CLASS_NAME" value="lesson25.PracticeSelected" />
-      <option name="METHOD_NAME" value="selectedTest" />
+      <option name="PACKAGE_NAME" value="lesson28" />
+      <option name="MAIN_CLASS_NAME" value="lesson28.SoftAssertExample" />
+      <option name="METHOD_NAME" value="softAssertExample" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -161,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FirstSelenideTest" />
+        <item itemvalue="TestNG.FirstSelenideTest.selenideTest" />
+        <item itemvalue="TestNG.FirstSelenideTest.selenideSecondTest" />
+        <item itemvalue="TestNG.SoftAssertExample.softAssertExample" />
         <item itemvalue="TestNG.PracticeJsExecutor.jsExecutorAlertTest" />
-        <item itemvalue="TestNG.PracticeJsExecutor.selectedTest" />
-        <item itemvalue="TestNG.PracticeSelected.selectedTest" />
-        <item itemvalue="TestNG.HWCopy.searchProductWithTop" />
-        <item itemvalue="TestNG.HWCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -392,6 +407,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm20/HappyNumber.java</url>
           <line>6</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/lesson28/FirstSelenideTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/lesson28/FirstSelenideTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
