@@ -1,4 +1,4 @@
-package ownTasks;
+package ua.hillel.ownTasks;
 
 public class Array {
     public static void main(String[] args) {

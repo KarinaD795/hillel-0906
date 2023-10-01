@@ -1,4 +1,4 @@
-package ownTasks;
+package ua.hillel.ownTasks;
 
 public class DoWhile {
     public static void main(String[] args) {
