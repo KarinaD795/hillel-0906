@@ -18,25 +18,22 @@ import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 public class VisualRegressionTestComparing {
 
     @Test
-    public  void screenShot() throws IOException {
-
-        open("https://www.google.com.ua");
+    public void screenShot() throws IOException {
+        open("https://www.google.com.ua/");
         Screenshot screenshot = new AShot().takeScreenshot(getWebDriver());
 
-
-        BufferedImage expectedImage= ImageIO.read(new File("screen/screen.png"));
+        BufferedImage expectedImage = ImageIO.read(new File("screen/screen.png"));
         BufferedImage actual = screenshot.getImage();
 
         ImageDiffer imageDiffer = new ImageDiffer();
-        ImageDiff imageDiff= imageDiffer.makeDiff(expectedImage, actual);
-
+        ImageDiff imageDiff = imageDiffer.makeDiff(expectedImage, actual);
 
         if (imageDiff.hasDiff()) {
-            Assert.fail("Images are not the same");
+            Assert.fail("Images are not same");
         } else {
             System.out.println("Images are same");
-
         }
+
     }
 
 }

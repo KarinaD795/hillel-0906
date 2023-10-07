@@ -4,22 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="modify-1">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTestComparing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/log4j/TestForLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" beforeDir="false" />
+    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="lesson 30">
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/log4j/logger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/CarForStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleCollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleForObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamOtherMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/ErrorPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/Specification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/SuccessUserResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestAvatarAndIdWithPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestAvatarAndIdWithoutPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestRegistrationSuccessWithPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestRegistrationSuccessWithoutPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestRegistrationUnSuccessWithPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestSortedYearsPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/UserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/UserForReg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/YearsData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hillel_0906.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hillel_0906.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testFirefox/SelenideIsDisplayedAndExists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTestComparing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTestComparing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/log4j/TestForLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/log4j/TestForLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFilter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,18 +119,18 @@
       <recent name="lesson30.ashot" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.VisualRegressionTestComparing.screenShot">
-    <configuration name="PracticeFindElements.findElementsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestDelete">
+    <configuration name="TestAvatarAndIdWithPojo.testAvatarAndId" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson24.*" />
+          <option name="PATTERN" value="lesson31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson24" />
-      <option name="MAIN_CLASS_NAME" value="lesson24.PracticeFindElements" />
-      <option name="METHOD_NAME" value="findElementsTest" />
+      <option name="PACKAGE_NAME" value="lesson31" />
+      <option name="MAIN_CLASS_NAME" value="lesson31.TestAvatarAndIdWithPojo" />
+      <option name="METHOD_NAME" value="testAvatarAndId" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -124,18 +138,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelenideIsDisplayedAndExists.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDelete" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson29.*" />
+          <option name="PATTERN" value="lesson31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson29" />
-      <option name="MAIN_CLASS_NAME" value="lesson29.SelenideIsDisplayedAndExists" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="lesson31" />
+      <option name="MAIN_CLASS_NAME" value="lesson31.TestDelete" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -198,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestDelete" />
+        <item itemvalue="TestNG.TestAvatarAndIdWithPojo.testAvatarAndId" />
         <item itemvalue="TestNG.VisualRegressionTestComparing.screenShot" />
         <item itemvalue="TestNG.VisualRegressionTest.screenShot" />
         <item itemvalue="TestNG.TestForLogger.logger" />
-        <item itemvalue="TestNG.PracticeFindElements.findElementsTest" />
-        <item itemvalue="TestNG.SelenideIsDisplayedAndExists.test" />
       </list>
     </recent_temporary>
   </component>
