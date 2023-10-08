@@ -4,36 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="lesson 30">
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/log4j/logger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/CarForStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleCollect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFlatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleForObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamOtherMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/ErrorPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/Specification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/SuccessUserResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestAvatarAndIdWithPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestAvatarAndIdWithoutPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestRegistrationSuccessWithPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestRegistrationSuccessWithoutPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestRegistrationUnSuccessWithPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/TestSortedYearsPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/UserForReg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lesson31/YearsData.java" afterDir="false" />
+    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="lesson 30(1)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hillel_0906.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hillel_0906.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTestComparing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/ashot/VisualRegressionTestComparing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/log4j/TestForLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/log4j/TestForLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson30/streamApi/StreamExampleFilter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +91,7 @@
       <recent name="lesson30.ashot" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestDelete">
+  <component name="RunManager" selected="TestNG.TestAvatarAndIdWithPojo.testAvatarAndId">
     <configuration name="TestAvatarAndIdWithPojo.testAvatarAndId" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
@@ -130,6 +102,24 @@
       </extension>
       <option name="PACKAGE_NAME" value="lesson31" />
       <option name="MAIN_CLASS_NAME" value="lesson31.TestAvatarAndIdWithPojo" />
+      <option name="METHOD_NAME" value="testAvatarAndId" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAvatarAndIdWithoutPojo.testAvatarAndId" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson31" />
+      <option name="MAIN_CLASS_NAME" value="lesson31.TestAvatarAndIdWithoutPojo" />
       <option name="METHOD_NAME" value="testAvatarAndId" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -149,24 +139,6 @@
       <option name="PACKAGE_NAME" value="lesson31" />
       <option name="MAIN_CLASS_NAME" value="lesson31.TestDelete" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestForLogger.logger" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson30.log4j.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson30.log4j" />
-      <option name="MAIN_CLASS_NAME" value="lesson30.log4j.TestForLogger" />
-      <option name="METHOD_NAME" value="logger" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -211,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestDelete" />
         <item itemvalue="TestNG.TestAvatarAndIdWithPojo.testAvatarAndId" />
+        <item itemvalue="TestNG.TestAvatarAndIdWithoutPojo.testAvatarAndId" />
+        <item itemvalue="TestNG.TestDelete" />
         <item itemvalue="TestNG.VisualRegressionTestComparing.screenShot" />
         <item itemvalue="TestNG.VisualRegressionTest.screenShot" />
-        <item itemvalue="TestNG.TestForLogger.logger" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696197861099</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lesson 30(1)">
+      <created>1696715165921</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696715165921</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,7 +315,8 @@
     <MESSAGE value="homework 25" />
     <MESSAGE value="modify" />
     <MESSAGE value="modify-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify-1" />
+    <MESSAGE value="lesson 30(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 30(1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
