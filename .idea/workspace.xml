@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="lesson 30(1)">
+    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="lesson 30(11)">
+      <change afterPath="$PROJECT_DIR$/src/test/java/homeworksSelenium/hw35/SpecificationForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homeworksSelenium/hw35/TestUserCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homeworksSelenium/hw35/UserInitData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homeworksSelenium/hw35/UserSuccessResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +95,7 @@
       <recent name="lesson30.ashot" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestAvatarAndIdWithPojo.testAvatarAndId">
+  <component name="RunManager" selected="TestNG.TestUserCreation.createUserWithNameAndJob">
     <configuration name="TestAvatarAndIdWithPojo.testAvatarAndId" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
@@ -110,25 +114,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAvatarAndIdWithoutPojo.testAvatarAndId" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson31.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson31" />
-      <option name="MAIN_CLASS_NAME" value="lesson31.TestAvatarAndIdWithoutPojo" />
-      <option name="METHOD_NAME" value="testAvatarAndId" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDelete" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDelete.testDelete" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
@@ -138,24 +124,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="lesson31" />
       <option name="MAIN_CLASS_NAME" value="lesson31.TestDelete" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VisualRegressionTestComparing.screenShot" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson30.ashot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson30.ashot" />
-      <option name="MAIN_CLASS_NAME" value="lesson30.ashot.VisualRegressionTestComparing" />
-      <option name="METHOD_NAME" value="screenShot" />
+      <option name="METHOD_NAME" value="testDelete" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -163,17 +132,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VisualRegressionTest.screenShot" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRegistrationSuccessWithPojo.testRegistrationSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson30.ashot.*" />
+          <option name="PATTERN" value="lesson31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson30.ashot" />
-      <option name="MAIN_CLASS_NAME" value="lesson30.ashot.VisualRegressionTest" />
-      <option name="METHOD_NAME" value="screenShot" />
+      <option name="PACKAGE_NAME" value="lesson31" />
+      <option name="MAIN_CLASS_NAME" value="lesson31.TestRegistrationSuccessWithPojo" />
+      <option name="METHOD_NAME" value="testRegistrationSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworksSelenium.hw35.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homeworksSelenium.hw35" />
+      <option name="MAIN_CLASS_NAME" value="homeworksSelenium.hw35.TestUserCreation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserCreation.createUserWithNameAndJob" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworksSelenium.hw35.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homeworksSelenium.hw35" />
+      <option name="MAIN_CLASS_NAME" value="homeworksSelenium.hw35.TestUserCreation" />
+      <option name="METHOD_NAME" value="createUserWithNameAndJob" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -183,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestUserCreation.createUserWithNameAndJob" />
+        <item itemvalue="TestNG.TestDelete.testDelete" />
         <item itemvalue="TestNG.TestAvatarAndIdWithPojo.testAvatarAndId" />
-        <item itemvalue="TestNG.TestAvatarAndIdWithoutPojo.testAvatarAndId" />
-        <item itemvalue="TestNG.TestDelete" />
-        <item itemvalue="TestNG.VisualRegressionTestComparing.screenShot" />
-        <item itemvalue="TestNG.VisualRegressionTest.screenShot" />
+        <item itemvalue="TestNG.TestUserCreation" />
+        <item itemvalue="TestNG.TestRegistrationSuccessWithPojo.testRegistrationSuccess" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696715165921</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="lesson 30(11)">
+      <created>1696789736893</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696789736895</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +327,8 @@
     <MESSAGE value="modify" />
     <MESSAGE value="modify-1" />
     <MESSAGE value="lesson 30(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 30(1)" />
+    <MESSAGE value="lesson 30(11)" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 30(11)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
