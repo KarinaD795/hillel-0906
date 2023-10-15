@@ -5,16 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="lesson 30(11)">
-      <change afterPath="$PROJECT_DIR$/src/test/java/homeworksSelenium/hw35/SpecificationForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homeworksSelenium/hw35/TestUserCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homeworksSelenium/hw35/UserInitData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homeworksSelenium/hw35/UserSuccessResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/MyListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson19/testsuite/FactoryClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson32/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson32/SecondClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson32/ThirdClassWithSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson32/suiteForJenkins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNgParallel/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNgParallel/SecondClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNgParallel/ThirdClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNgParallel/testNg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_78.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_5_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hillel_0906.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hillel_0906.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,6 +39,7 @@
         <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -62,20 +80,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/karina/www/hillel-0906/src/main/resources&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/karina/www/hillel-0906/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="lesson32" />
       <recent name="lesson30.ashot" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -96,6 +115,23 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.TestUserCreation.createUserWithNameAndJob">
+    <configuration name="FirstClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson32" />
+      <option name="MAIN_CLASS_NAME" value="lesson32.FirstClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestAvatarAndIdWithPojo.testAvatarAndId" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
@@ -132,41 +168,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRegistrationSuccessWithPojo.testRegistrationSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson31.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson31" />
-      <option name="MAIN_CLASS_NAME" value="lesson31.TestRegistrationSuccessWithPojo" />
-      <option name="METHOD_NAME" value="testRegistrationSuccess" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestUserCreation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeworksSelenium.hw35.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="homeworksSelenium.hw35" />
-      <option name="MAIN_CLASS_NAME" value="homeworksSelenium.hw35.TestUserCreation" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestUserCreation.createUserWithNameAndJob" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="hillel_0906" />
       <extension name="coverage">
@@ -185,13 +186,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebElementsSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworksSelenium.hw26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homeworksSelenium.hw26" />
+      <option name="MAIN_CLASS_NAME" value="homeworksSelenium.hw26.WebElementsSearch" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.TestUserCreation.createUserWithNameAndJob" />
+        <item itemvalue="TestNG.WebElementsSearch" />
+        <item itemvalue="TestNG.FirstClass" />
         <item itemvalue="TestNG.TestDelete.testDelete" />
         <item itemvalue="TestNG.TestAvatarAndIdWithPojo.testAvatarAndId" />
-        <item itemvalue="TestNG.TestUserCreation" />
-        <item itemvalue="TestNG.TestRegistrationSuccessWithPojo.testRegistrationSuccess" />
       </list>
     </recent_temporary>
   </component>
