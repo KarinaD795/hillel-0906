@@ -27,8 +27,8 @@ public class HWCopy {
     @Test
     public void searchProductWithTop() throws InterruptedException {
         driver.get("https://rozetka.com.ua/");
-        WebElement laptopsAndComputersY = driver.findElement(By.xpath("//ul[@class='menu-categories menu-categories_type_main']/li[1]"));
-        laptopsAndComputersY.click();
+        WebElement laptopsAndComputersYY = driver.findElement(By.xpath("//ul[@class='menu-categories menu-categories_type_main']/li[1]"));
+        laptopsAndComputersYY.click();
 
         WebElement laptops = driver.findElement(By.xpath("//a[@title='Ноутбуки'][1]"));
         laptops.click();
